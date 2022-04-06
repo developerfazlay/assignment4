@@ -1,6 +1,6 @@
 <?php
 
-// Answer to the question no #04
+// Answer to the question no #4
 // Print out from 100 - 1
 
 $i = 100;

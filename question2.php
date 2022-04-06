@@ -3,7 +3,7 @@
 <?php
 
 
-// Answer to the question no #02
+// Answer to the question no #2
 // Odd Number
 
 

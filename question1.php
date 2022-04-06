@@ -4,7 +4,7 @@
 
 
   
-// Answer to the question no #01
+// Answer to the question no #1
 // Number of days of specific month
 
 

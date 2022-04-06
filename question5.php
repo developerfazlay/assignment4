@@ -1,6 +1,6 @@
 <?php
 
-// Answer to the question no #05
+// Answer to the question no #5
 // Showed all products as a table list
 
 $purchased_products = ['apple', 'orange', 'banana', 'mango'];

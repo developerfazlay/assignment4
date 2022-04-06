@@ -3,8 +3,8 @@
 <?php
 
 
-// Answer to the question no #03
-//Factorial
+// Answer to the question no #3
+// Factorial
 
 
 /******************************
